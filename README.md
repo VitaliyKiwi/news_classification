@@ -8,5 +8,5 @@ news classification with BERT: [![Open In Colab](https://colab.research.google.c
 Данных мало, можно аугментировать:
 1. Сгенерировать заголовки для размеченного корпуса: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shitkov/news_classification/blob/main/news_classification_summarization.ipynb)</br>
 2. Парафраз для положительных примеро: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shitkov/news_classification/blob/main/news_classification_paraphrase.ipynb)</br>
-3. Обучить BERT на заголовках.
+3. Обучить BERT на заголовках: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shitkov/news_classification/blob/main/headlines_classification_bert.ipynb)</br>
 4. Дообучить языковую модель mT5/ruGPT3 на задачу генерации метки.
